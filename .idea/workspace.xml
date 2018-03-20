@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48f04526-30f8-4ca4-9f21-8a8c41d36a45" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/Anime.py" afterPath="$PROJECT_DIR$/Anime.py" />
       <change beforePath="$PROJECT_DIR$/wordlists/pls.py" afterPath="$PROJECT_DIR$/wordlists/pls.py" />
     </list>
